@@ -17,8 +17,7 @@ const Footer = () => {
         <Link href="/components/footer/privacy">            
           <div className="font-semibold"><p>PRIVACY</p></div> 
         </Link>
-        </div>
-        <br />  
+        </div>       
       <div className="flex flex-col justify-center items-center text-center">
 				<h1 className=" text-gray-400 text-sm">
 					© 2023 All rights reserved
